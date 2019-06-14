@@ -1,0 +1,15 @@
+<?php
+
+return [
+    'home_name' => 'الصفحه الرئيسيه',
+    'search_now' => 'أبحث الأن',
+    'perfect_tours' => 'أفضل الرحلات',
+    'call_us_now' => 'أتصل بنا الأن',
+    'search' => 'أبحث',
+    'Date' => 'التاريخ',
+    'book_now' => 'أحجز الأن',
+    'view_details'=> 'مزيد من التفاصيل',
+    'reviews' => 'التعليقات',
+    '2_NIGHT_CRUISE_TO_GRAND_BAHAMAS' => 'قضاء ليلتين فى الجراند بهاماس',
+    'Tarnsportaion_services' => 'خدمات النقل',
+    ];
